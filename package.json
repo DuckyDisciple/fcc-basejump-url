@@ -1,0 +1,14 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "A web service that converts a website to a shortened url which can be called later.",
+  "main": "server.js",
+  "start": "node server.js",
+  "repository": "",
+  "author": "Drew Sartorius",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~4.0.0",
+    "socket.io": "~0.9.14"
+  }
+}
